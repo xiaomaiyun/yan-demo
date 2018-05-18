@@ -386,7 +386,7 @@
                         <contextPath>/yan-demo</contextPath>
                     </webAppConfig>
                     <httpConnector>
-                        <port>9999</port>
+                        <port>7999</port>
                     </httpConnector>
                 </configuration>
             </plugin>
