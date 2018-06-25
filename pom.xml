@@ -383,7 +383,7 @@
                     <!-- 指定监控的扫描时间间隔，0为关闭jetty自身的热部署 -->
                     <scanIntervalSeconds>0</scanIntervalSeconds>
                     <webAppConfig>
-                        <contextPath>/yan-demo</contextPath>
+                        <contextPath>/yandemo</contextPath>
                     </webAppConfig>
                     <httpConnector>
                         <port>9999</port>
